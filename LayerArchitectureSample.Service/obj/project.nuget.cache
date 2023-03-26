@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/Ce09Nx0BL1lTidaCA/RHYrkPLfnLJwVseZLFR1YISQ0DcAKjp572ztLdrEr9EHnIsOq8nKH+NAWlgmcmWeuw==",
+  "success": true,
+  "projectFilePath": "D:\\Devolops\\C#\\LayerArchitecture\\LayerArchitectureSample.Service\\LayerArchitectureSample.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\his62\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\his62\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

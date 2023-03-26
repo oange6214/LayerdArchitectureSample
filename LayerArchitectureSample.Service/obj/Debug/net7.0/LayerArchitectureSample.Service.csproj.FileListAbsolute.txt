@@ -1,0 +1,17 @@
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\obj\Debug\net7.0\LayerArchitectureSample.Service.csproj.AssemblyReference.cache
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\obj\Debug\net7.0\LayerArchitectureSample.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\obj\Debug\net7.0\LayerArchitectureSample.Service.AssemblyInfoInputs.cache
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\obj\Debug\net7.0\LayerArchitectureSample.Service.AssemblyInfo.cs
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\obj\Debug\net7.0\LayerArchitectureSample.Service.csproj.CoreCompileInputs.cache
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\bin\Debug\net7.0\LayerArchitectureSample.Service.deps.json
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\bin\Debug\net7.0\LayerArchitectureSample.Service.dll
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\bin\Debug\net7.0\LayerArchitectureSample.Service.pdb
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\bin\Debug\net7.0\LayerArchitectureSample.Common.dll
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\bin\Debug\net7.0\LayerArchitectureSample.Repository.dll
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\bin\Debug\net7.0\LayerArchitectureSample.Common.pdb
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\bin\Debug\net7.0\LayerArchitectureSample.Repository.pdb
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\obj\Debug\net7.0\LayerArchitectureSample.Service.csproj.CopyComplete
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\obj\Debug\net7.0\LayerArchitectureSample.Service.dll
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\obj\Debug\net7.0\refint\LayerArchitectureSample.Service.dll
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\obj\Debug\net7.0\LayerArchitectureSample.Service.pdb
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Service\obj\Debug\net7.0\ref\LayerArchitectureSample.Service.dll

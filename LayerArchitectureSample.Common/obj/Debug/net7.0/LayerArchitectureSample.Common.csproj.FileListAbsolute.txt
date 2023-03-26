@@ -1,0 +1,12 @@
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Common\bin\Debug\net7.0\LayerArchitectureSample.Common.deps.json
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Common\bin\Debug\net7.0\LayerArchitectureSample.Common.dll
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Common\bin\Debug\net7.0\LayerArchitectureSample.Common.pdb
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Common\obj\Debug\net7.0\LayerArchitectureSample.Common.csproj.AssemblyReference.cache
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Common\obj\Debug\net7.0\LayerArchitectureSample.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Common\obj\Debug\net7.0\LayerArchitectureSample.Common.AssemblyInfoInputs.cache
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Common\obj\Debug\net7.0\LayerArchitectureSample.Common.AssemblyInfo.cs
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Common\obj\Debug\net7.0\LayerArchitectureSample.Common.csproj.CoreCompileInputs.cache
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Common\obj\Debug\net7.0\LayerArchitectureSample.Common.dll
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Common\obj\Debug\net7.0\refint\LayerArchitectureSample.Common.dll
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Common\obj\Debug\net7.0\LayerArchitectureSample.Common.pdb
+D:\Devolops\C#\LayerArchitecture\LayerArchitectureSample.Common\obj\Debug\net7.0\ref\LayerArchitectureSample.Common.dll
